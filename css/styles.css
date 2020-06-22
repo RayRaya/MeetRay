@@ -78,6 +78,12 @@ p {
   margin-right: 30px;
 }
 
+.guitar-pic{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+
 .web-pic{
   width:25%;
   float:right;
