@@ -35,6 +35,10 @@ a:hover{
   color:#EAF6F6;
 }
 
+a:active{
+  color:#11999E;
+}
+
 hr{
   width: 5%;
   border-style: none;
